@@ -1,0 +1,28 @@
+.outer {
+	color: #28bfda;
+	position: absolute;
+	animation: spin1 0.3s linear infinite;
+}
+@keyframes spin1 {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.inner {
+	color: #ad1fec;
+	position: absolute;
+	animation: spin2 0.7s linear infinite;
+}
+
+@keyframes spin2 {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
