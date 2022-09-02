@@ -21,25 +21,32 @@ const Home = () => {
 	}, []);
 	return (
 		<div
-			className="w-screen h-screen 
-	bg-bgColor flex items-start
-	py-10 justify-center
-	gap-4
+			className="w-full md:w-screen h-screen 
+	bg-bgColor md:flex md:items-start
+	md:py-10 justify-center 
+	md:gap-4
+	md:px-2
 	"
 		>
-			<div className="flex items-center">
+			<div
+				className="md:flex md:items-center
+			 my-5 md:m-0 px-10 md:px-0"
+			>
 				<div
-					className="w-[200px] flex 
-				flex-col gap-5"
+					className="w-full mdlg:w-[200px] flex 
+				flex-col gap-5 mx-auto md:mx-0"
 				>
 					<GradientName></GradientName>
 					<Tags data={dataTags} activeIndex={activeIndex}></Tags>
 					<SignOut />
 				</div>
 			</div>
-			<div className="flex items-center">
+			<div
+				className="md:flex md:items-center
+			px-10  md:px-0"
+			>
 				<div
-					className="w-[600px] flex 
+					className="md:w-[600px] flex 
 				flex-col gap-5"
 				>
 					<TopBar />

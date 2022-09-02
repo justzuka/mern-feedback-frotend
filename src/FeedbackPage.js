@@ -67,16 +67,17 @@ const FeedbackPage = () => {
 
 	return (
 		<div
-			className="w-screen h-screen 
-            bg-bgColor flex items-start
-            py-10 justify-center
-            gap-4 
+			className="w-full md:w-screen h-screen 
+            bg-bgColor md:flex md:items-start
+            py-10 md:justify-center
+            md:gap-4 
+			p-3
             "
 		>
 			{isLoading ? (
 				<Loader />
 			) : (
-				<div className="w-[600px] flex flex-col gap-5">
+				<div className="w-full md:w-[600px] flex flex-col gap-5">
 					<button
 						onClick={() => (window.location.href = "/")}
 						className="

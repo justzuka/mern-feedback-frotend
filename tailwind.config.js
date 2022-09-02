@@ -2,6 +2,13 @@
 module.exports = {
 	content: ["./src/**/*.{html,js}"],
 	theme: {
+		screens: {
+			ms: "640px",
+			md: "768px",
+			mdlg: "850px",
+			lg: "1024px",
+			xl: "1280px",
+		},
 		extend: {
 			colors: {
 				bgColor: "#f7f8fd",

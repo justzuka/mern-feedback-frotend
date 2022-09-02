@@ -39,8 +39,8 @@ const Feedback = ({
 	}, []);
 	return (
 		<div
-			className="w-full bg-white rounded-lg flex 
-		justify-between items-center
+			className="w-full bg-white rounded-lg md:flex 
+		justify-center md:justify-between items-center 
 		p-2
 		px-4 "
 		>
