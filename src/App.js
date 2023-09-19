@@ -7,7 +7,7 @@ import Login from "./Login";
 import AddFeedback from "./AddFeedback";
 import FeedbackPage from "./FeedbackPage";
 
-// hi
+// hi there
 function App() {
 	return (
 		<>
