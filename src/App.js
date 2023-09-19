@@ -6,6 +6,8 @@ import Register from "./Register";
 import Login from "./Login";
 import AddFeedback from "./AddFeedback";
 import FeedbackPage from "./FeedbackPage";
+
+// hi
 function App() {
 	return (
 		<>
