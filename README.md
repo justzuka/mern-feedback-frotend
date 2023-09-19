@@ -1,6 +1,6 @@
 # MERN feedback web-site 
 
-Web-site empowers users with comprehensive control over product feedback, enabling them to craft insightful comments, implement robust filtering mechanisms, and seamlessly organize information. Additionally, users have the capability to log in to the platform, express their support through upvoting, and leverage advanced filtering options for a tailored experience.
+Web-site empowers users with comprehensive control over product feedback, enabling them to craft insightful comments, implement robust filtering mechanisms, and seamlessly organize information. Additionally, users have the capability to log in to the platform, express their support through upvoting.
 
 Idea for the design was taken from the web-site [https://www.frontendmentor.io/challenges?sort=difficulty|desc](https://www.frontendmentor.io/challenges?sort=difficulty|desc)
 
