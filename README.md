@@ -4,8 +4,5 @@ Web-site empowers users with comprehensive control over product feedback, enabli
 
 Idea for the design was taken from the web-site [https://www.frontendmentor.io/challenges?sort=difficulty|desc](https://www.frontendmentor.io/challenges?sort=difficulty|desc)
 
-web-site link: [https://mern-feedback-zuka.netlify.app](https://mern-feedback-zuka.netlify.app)
-
-
 ![Screenshot 2023-09-19 125055](https://github.com/justzuka/mern-feedback-frotend/assets/72873161/d6a55a69-b509-4441-a706-e5a06c5981db)
 ![Screenshot 2023-09-19 125006](https://github.com/justzuka/mern-feedback-frotend/assets/72873161/c22acb44-f9af-4fa7-8592-5ce5b1d93277)
